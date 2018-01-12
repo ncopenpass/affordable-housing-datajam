@@ -10,27 +10,27 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "Triangle Affordable Housing Datajam"
+email: "chris.mathews@wakegov.com"
+description: "Sponsored by NC Data4Good and NC OpenPass"
 baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+url: "https://christhedba.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: 
+googleAnalyticsSiteUrl: 
+siteVerification: 
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "NC Openpass and NC Data4Good"
+organizerAlternateName: ""
+organizerDescription: "Using data and analysis to empower Triangle agencies to make better decisions."
+organizerEmail: "christhedba@gmail.com"
+organizerLogo: ""
+organizerLink: ""
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, datajam, google, programming, R, python, affordable housing"
+twitterAccount: "@ncopenapss"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
