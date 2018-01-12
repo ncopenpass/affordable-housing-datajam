@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
@@ -111,7 +111,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "NC State Engineering Building II"
-venueFeatures: ["2 huge audiotoriums", "breakout rooms", "Located on centenial Campus"]
+venueFeatures: ["2 huge auditoriums", "breakout rooms", "Located on centenial Campus"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
