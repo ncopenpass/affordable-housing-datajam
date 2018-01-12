@@ -68,25 +68,25 @@ heroButtons:
 aboutTitle: "About Triangle Affordable Housing Datajam"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Learn about the latest devlopments in Triangle Open Data" }
- - {title: "Workshops", image: "workshop.jpg", text: "Learn how journalists use data to build storyies and get your hands on some yourself" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Bring your analysis skills and passion for public service to help agencies engaged in affrodable housing." }
+ - {title: "Workshops", image: "workshop.jpg", text: "Learn how journalists use data to build stories and get your hands on some yourself" }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Bring your analysis skills and passion for public service to help agencies engaged in affordable housing." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "50", specialCharacter: "+", info: "analysts", detail: "from around the Triangle"}
+ - {count: "16", specialCharacter: "+", info: "hours", detail: "of open data goodness"}
+ - {count: "10", specialCharacter: "+", info: "partner agencies", detail: "from around the Triangle"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersImage: ""
+rockstarSpeakersCount: 0
+rockstarSpeakersTitle: ""
+rockstarSpeakersButtonText: ""
 
 # Location Block
 locationBlockTitle: "Location"
