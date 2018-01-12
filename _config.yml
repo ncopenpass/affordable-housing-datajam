@@ -23,7 +23,7 @@ siteVerification:
 # Organizer Info
 organizerName: "NC Openpass and NC Data4Good"
 organizerAlternateName: ""
-organizerDescription: "Using data and analysis to empower Triangle agencies to make better decisions."
+organizerDescription: "Harnessing the power of data and community to empower Triangle agencies to make better decisions around affordable housing."
 organizerEmail: "christhedba@gmail.com"
 organizerLogo: ""
 organizerLink: ""
@@ -37,7 +37,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: ""
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: ""
 
 
 # Navigation
@@ -50,18 +50,18 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/2D7bhLc", text: "Become a partner"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/2D7bhLc", text: "Become a partner"}
 
 # Hero Block
-heroImage: "CommWithData.jpeg"
+heroImage: "CommWithData.jpg"
 heroTitle: "Triangle Affordable Housing Datajam"
 eventDate: "March 3-4, 2018"
 typeoutTextValues: ''
 typeoutFallback: ""
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/2D7bhLc", text: "Become a partner"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -212,9 +212,9 @@ findWayDriving: "DRIVING"
 findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+findWayFindFlight: ""
+logisticsMapCenterCoordinates: "35.7719, -78.6740"
+logisticsMapMobileCenterCoordinates: "35.7719, -78.6740"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
@@ -286,6 +286,6 @@ hackathonStartTime: "2014-10-24T10:00"
 hackathonDoorTime: "09:00"
 hackathonEndTime: "2014-10-25T00:00"
 viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+hackathonPlaceCoordinates: "35.7719, -78.6740"
+hackathonMapCenterCoordinates: 35.7719, -78.6740"
+hackathonMapMobileCenterCoordinates: "35.7719, -78.6740"
