@@ -25,7 +25,7 @@ organizerName: "NC Openpass and NC Data4Good"
 organizerAlternateName: ""
 organizerDescription: "Harnessing the power of data and community to help Triangle agencies to make better decisions around affordable housing."
 organizerEmail: "christhedba@gmail.com"
-organizerLogo: ""
+organizerLogo: "organizer-logo.png"
 organizerLink: ""
 
 # Head
@@ -62,7 +62,7 @@ typeoutTextValues: ''
 typeoutFallback: ""
 heroButtons:
  - {link: "http://bit.ly/2D7bhLc", text: "Become a partner"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Get tickets"}
 
 # About Block
 aboutTitle: "About Triangle Affordable Housing Datajam"
@@ -77,7 +77,7 @@ statisticBlock:
  - {count: "50", specialCharacter: "+", info: "analysts", detail: "from around the Triangle"}
  - {count: "16", specialCharacter: "+", info: "hours", detail: "of open data goodness"}
  - {count: "10", specialCharacter: "+", info: "partner agencies", detail: "from around the Triangle"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus breakfast and lunch"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -174,20 +174,20 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "", icon: "google-plus"}
+ - {link: "", icon: "twitter"}
+ - {link: "", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "", text: ""}
+   - {link: "", text: ""}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:", text: ""}
  -
   title: "FAQ"
   links:
@@ -219,7 +219,7 @@ logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Get around Raleigh"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Raleigh. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
