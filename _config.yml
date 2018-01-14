@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+ #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/2D7bhLc", text: "Become a partner"}
@@ -68,7 +68,7 @@ heroButtons:
 aboutTitle: "About Triangle Affordable Housing Datajam"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Learn about the latest devlopments in Triangle Open Data" }
- - {title: "Workshops", image: "workshop.jpg", text: "Learn how journalists use data to build stories and get your hands on some yourself" }
+ - {title: "Workshop", image: "workshop.jpg", text: "Learn how journalists use data to build stories and get your hands on some yourself" }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Bring your analysis skills and passion for public service to help agencies engaged in affordable housing." }
 
 # Statistic Block
