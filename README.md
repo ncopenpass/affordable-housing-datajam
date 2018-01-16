@@ -1,4 +1,4 @@
-# Triangle Affordable housing Datajam 2018
+# Triangle Affordable Housing Datajam 2018
 
 ### About
 This is the location for the website for the event and offers a home for projects, analyzes and visializations developed durin the event.
