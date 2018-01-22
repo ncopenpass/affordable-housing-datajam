@@ -136,13 +136,13 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Hackathon"
-  price: "0"
-  priceCurrency: "US Dollar"
+  price: ""
+  priceCurrency: ""
   ticketsNumber: "00"
   ribbon: ""
-  buyButtonLink: ""
+  buyButtonLink: "https://www.eventbrite.com/e/nc-open-pass-2018-tickets-42176718701"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["Work on Affordable Housing", "Data Analysis", "Policy Analysis"]
   validFrom: "2018-01-28T09:00"
   validThrough: "2018-03-04T09:00"
  -
@@ -152,25 +152,13 @@ ticketsOffers:
   ticketsNumber: "100"
   ribbon: ""
   featured: true
-  buyButtonLink: ""
+  buyButtonLink: "https://www.eventbrite.com/e/nc-open-pass-2018-tickets-42176718701"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["NC Open Data", "Smart Cities", "Data Journalism"]
   validFrom: "2018-01-28T09:00"
   validThrough: "2018-03-04T09:00"
   disabled: false
- -
-  name: "Full Conference"
-  price: ""
-  priceCurrency: ""
-  ticketsNumber: "100"
-  ribbon: ""
-  featured: true
-  buyButtonLink: ""
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2018-01-28T09:00"
-  validThrough: "2018-03-04T09:00"
-  disabled: false
+ 
   
 # Footer
 socialLinks:
