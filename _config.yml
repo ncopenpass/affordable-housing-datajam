@@ -136,7 +136,7 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Hackathon"
-  price: ""
+  price: "Free"
   priceCurrency: ""
   ticketsNumber: "00"
   ribbon: ""
@@ -147,7 +147,7 @@ ticketsOffers:
   validThrough: "2018-03-04T09:00"
  -
   name: "Full Conference"
-  price: ""
+  price: "Free"
   priceCurrency: ""
   ticketsNumber: "100"
   ribbon: ""
