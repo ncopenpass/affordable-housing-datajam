@@ -141,7 +141,7 @@ ticketsOffers:
   ticketsNumber: "00"
   ribbon: ""
   buyButtonLink: "https://www.eventbrite.com/e/nc-open-pass-2018-tickets-42176718701"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Free"
   ticketContentList: ["Work on Affordable Housing", "Data Analysis", "Policy Analysis"]
   validFrom: "2018-01-28T09:00"
   validThrough: "2018-03-04T09:00"
@@ -150,7 +150,7 @@ ticketsOffers:
   price: "Free"
   priceCurrency: ""
   ticketsNumber: "100"
-  ribbon: ""
+  ribbon: "Free"
   featured: true
   buyButtonLink: "https://www.eventbrite.com/e/nc-open-pass-2018-tickets-42176718701"
   buyButtonText: "Buy Now"
