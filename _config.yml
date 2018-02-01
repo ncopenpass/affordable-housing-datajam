@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Triangle Affordable Housing Datajam"
 email: "chris.mathews@wakegov.com"
 description: "Sponsored by NC Data4Good and NC OpenPass"
-baseurl: "/datajam-website"
+baseurl: "/datajam18-website"
 url: "https://ncopenpass.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: 
