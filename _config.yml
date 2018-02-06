@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Triangle Affordable Housing Datajam"
+title: "NC Open Pass Affordable Housing Datajam"
 email: "chris.mathews@wakegov.com"
 description: "Sponsored by NC Data4Good and NC OpenPass"
 baseurl: "/datajam18-website"
@@ -56,7 +56,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "CommWithData.jpg"
-heroTitle: "Triangle Affordable Housing Datajam"
+heroTitle: "NC Open Pass Affordable Housing Datajam"
 eventDate: "March 3-4, 2018"
 typeoutTextValues: ''
 typeoutFallback: ""
