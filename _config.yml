@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "NC Open Pass Affordable Housing Datajam"
 email: "chris.mathews@wakegov.com"
 description: "Sponsored by NC Data4Good and NC OpenPass"
-baseurl: "/datajam18-website"
+baseurl: "/datajam"
 url: "https://ncopenpass.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: 
