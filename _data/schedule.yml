@@ -39,12 +39,7 @@
     - {
         startTime: "13:00",
         endTime: "17:00",
-        sessionIds: [404,007, 404]
-    }
-    - {
-        startTime: "13:00",
-        endTime: "17:00",
-        sessionIds: [404,404, 008]
+        sessionIds: [404,007, 008]
     }
 - 
   date: "2018-03-04"
