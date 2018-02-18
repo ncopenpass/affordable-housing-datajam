@@ -36,6 +36,11 @@
     	endTime: "13:00",
     	sessionIds: [503]
     }
+    - {
+        startTime: "13:00",
+        endTime: "17:00",
+        sessionIds: [007]
+    }
 - 
   date: "2018-03-04"
   dateReadable: "March 4"
