@@ -31,8 +31,8 @@
   video: 
 -
   id: 003
-  title: "Lightning Talks"
-  description: ""
+  title: "Keynote"
+  description: "John Correllus - North Carolina State CDO"
   subtype: 
   speakers: 
   language: en
@@ -110,6 +110,16 @@
   presentation: 
   video: 
 
+-
+  id: 011
+  title: "Durham Affordable Housing Datahub"
+  description: ""
+  subtype: 
+  speakers: 
+  language: en
+  complexity: "" 
+  presentation: 
+  video: 
 
 
 
