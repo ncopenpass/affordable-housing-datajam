@@ -11,10 +11,10 @@
     - {name: "", link: ""}
 - 
   id: 4
-  name: "John"
-  surname: "Correllus"
-  company: "NC State Government"
-  title: "Chief Data Officer"
+  name: "Steve"
+  surname: "Rao"
+  company: "Town of Morrisville"
+  title: "Mayor Pro Tem"
   bio: ""
   thumbnailUrl: 
   rockstar: true
