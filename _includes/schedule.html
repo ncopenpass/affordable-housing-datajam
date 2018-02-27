@@ -45,7 +45,7 @@
                                                 {% for session_speaker in session.speakers %}
                                                     {% if session_speaker == speaker.id %}
                                                     <h5 align="center">{{ speaker.name }} {{ speaker.surname }}
-                                                        <span class="speaker-position" align="center">{{ speaker.company }}</span>
+                                                        <h6 class="speaker-position" align="center">{{ speaker.company }}</h6>
                                                     </h5>
                                                     {% endif %}
                                                 {% endfor %}    
