@@ -44,9 +44,9 @@
                                         {% for speaker in site.data.speakers %}
                                                 {% for session_speaker in session.speakers %}
                                                     {% if session_speaker == speaker.id %}
-                                                    <p align="center">{{ speaker.name }} {{ speaker.surname }}
+                                                    <h5 align="center">{{ speaker.name }} {{ speaker.surname }}
                                                         <span class="speaker-position" align="center">{{ speaker.company }}</span>
-                                                    </p>
+                                                    </h5>
                                                     {% endif %}
                                                 {% endfor %}    
                                             {% endfor %}
